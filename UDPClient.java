@@ -1,3 +1,11 @@
+/**
+	Description: This is a simple UDP client that connects to a server and sends a message to the server.
+	Author: Lerynnx (GitHub)
+	Date: 2024-04-08
+	Version: 1.0
+	Do not remove this Attribution if you use this code.
+	Nottify the author if you want to use this code before using it.
+*/
 import java.net.*;
 import java.util.Scanner;
 import java.io.*;
